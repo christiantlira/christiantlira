@@ -1,7 +1,7 @@
 - 🔭 Hoje procurando trabalhar com back-end
 - 🌱 Atualmente aprendendo Java
 - 📫 Contato: christiantlira@gmail.com
-- 😄 Pronouns: ele/dele
+- 😄 Pronomes: ele/dele
 
 ##
 <div align="center">
