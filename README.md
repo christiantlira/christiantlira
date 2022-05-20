@@ -1,4 +1,4 @@
-- 🔭 Hoje procurando trabalhar com back-end
+- 🔭 Bacharelando em Sistemas de Informação
 - 🌱 Atualmente aprendendo Java
 - 📫 Contato: christiantlira@gmail.com
 - 😄 Pronomes: ele/dele
