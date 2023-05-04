@@ -1,5 +1,5 @@
 - 🔭 Bacharelando em Sistemas de Informação
-- 🌱 Atualmente aprendendo Java
+- 🌱 Estudando C#
 - 📫 Contato: christiantlira@gmail.com
 - 😄 Pronomes: ele/dele
 
